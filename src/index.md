@@ -6,7 +6,7 @@ actionText: 2026年1月站点动态 →
 actionLink: /website/2026-1.html
 features:
   - title: 一名开发人员的自我挑战
-    details: 试试原版 Vitepress 1
+    details: 试试原版 Vuepress 1
   - title: 为什么不在 www 网站上继续？
     details: 因为这个网站要的是稳定性，即使上海服务器崩了，这个网站也要能开
   - title: 这个网站记录的是什么？
