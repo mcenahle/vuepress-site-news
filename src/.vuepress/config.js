@@ -17,12 +17,19 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.svg' }]
     ],
 
+    markdown: {
+        lineNumbers: true,
+    },
+
     themeConfig: {
+        search: false,
+
         repo: 'mcenahle/vuepress-site-news',
         docsDir: 'src',
         docsBranch: 'main',
         editLinks: true,
-        editLinkText: '在 GitHub 上编辑此页',
+        editLinkText: '✏️ 在 GitHub 编辑此页',
+
         logo: '/favicon.svg',
 
         smoothScroll: true,
@@ -31,6 +38,7 @@ module.exports = {
             { text: '首页', link: '/' },
             { text: '站点动态', link: '/website/2026-1.html' },
             { text: '主页网站', link: 'https://www.mcenahle.org.cn/' },
+            { text: '博客网站', link: 'https://blog.mcenahle.org.cn/' },
         ],
 
         sidebar: [
