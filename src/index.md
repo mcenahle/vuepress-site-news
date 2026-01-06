@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: 
 tagline:
 actionText: 2026年1月站点动态 →
 actionLink: /website/2026-1.html

@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'news.mcenahle.org.cn',
+    title: '网站建设新闻网站',
     description: '网站建设新闻网站',
     lang: 'zh-CN',
 
@@ -8,7 +8,7 @@ module.exports = {
         // 作为特例，默认语言可以使用 '/' 作为其路径。
         '/': {
             lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
-            title: 'news.mcenahle.org.cn',
+            title: '网站建设新闻网站',
             description: '网站建设新闻网站'
         },
     },
