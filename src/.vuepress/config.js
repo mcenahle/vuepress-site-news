@@ -37,6 +37,7 @@ module.exports = {
         nav: [
             { text: '首页', link: '/' },
             { text: '站点动态', link: '/website/2026-1.html' },
+            { text: '站点通知', link: '/tongzhi/not-supporting-wechat-browser.html' },
             { text: '主页网站', link: 'https://www.mcenahle.org.cn/' },
             { text: '博客网站', link: 'https://blog.mcenahle.org.cn/' },
         ],
@@ -47,6 +48,13 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/website/2026-1.html',
+                ]
+            },
+            {
+                title: '站点通知',
+                collapsable: false,
+                children: [
+                    '/tongzhi/not-supporting-wechat-browser.html',
                 ]
             }
         ]
