@@ -55,6 +55,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/tongzhi/not-supporting-wechat-browser.html',
+                    '/tongzhi/old-blog-site-archived.html',
                 ]
             }
         ]
