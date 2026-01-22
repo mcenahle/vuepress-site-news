@@ -37,7 +37,7 @@ module.exports = {
         nav: [
             { text: '首页', link: '/' },
             { text: '站点动态', link: '/website/2026-1.html' },
-            { text: '站点通知', link: '/tongzhi/not-supporting-wechat-browser.html' },
+            { text: '站点通知', link: '/tongzhi/old-blog-site-archived.html' },
             { text: '主页网站', link: 'https://www.mcenahle.org.cn/' },
             { text: '博客网站', link: 'https://blog.mcenahle.org.cn/' },
         ],
@@ -54,8 +54,8 @@ module.exports = {
                 title: '站点通知',
                 collapsable: false,
                 children: [
-                    '/tongzhi/not-supporting-wechat-browser.html',
                     '/tongzhi/old-blog-site-archived.html',
+                    '/tongzhi/revoke-policy-1-15.html'
                 ]
             }
         ]
