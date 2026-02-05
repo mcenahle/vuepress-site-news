@@ -2,8 +2,8 @@
 home: true
 heroImage: 
 tagline:
-actionText: 2026年1月站点动态 →
-actionLink: /website/2026-1.html
+actionText: 2026年2月站点动态 →
+actionLink: /website/2026-2.html
 features:
   - title: 一名开发人员的自我挑战
     details: 试试原版 Vuepress 1
