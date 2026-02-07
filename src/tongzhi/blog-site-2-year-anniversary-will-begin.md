@@ -25,7 +25,7 @@
 **[https://2.mn.edu.kg](https://2.mn.edu.kg)**（建议使用Safari、Chrome、Edge等主流浏览器浏览该网站）
 
 ::: tip 为什么不使用 https://blog.mcenahle.org.cn/2-year/ 或者 https://2-year.mcenahle.org.cn 等？
-由于`(*.)mcenahle.org.cn`进行了非交互式网站的ICP备案（即不得进行表单提交等行为），又为了让网站更好记，因此本次活动采取2025年年底注册的`mn.edu.kg`域。
+由于`mcenahle.org.cn`进行了非交互式网站的ICP备案（即不得进行表单提交等行为），又为了让网站更好记，因此本次活动采取2025年年底注册的`mn.edu.kg`域。
 :::
 
 ## 四、隐私政策
